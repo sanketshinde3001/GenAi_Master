@@ -2,6 +2,8 @@ import streamlit as st
 
 st.title("Multi Functional GENAI Application")
 st.write("This Project is Under Development and OpenSource for everyone.")
+st.header(">>>>Open sidebar to use this app<<<<")
+
 st.subheader("Current Features")
 tab1, tab2 , tab3 , tab4 = st.tabs(["TextGen", "Image-Gen","Chatbot","Summerization"])
 
@@ -47,3 +49,17 @@ with tab4:
     st.subheader("Summerization")
     st.write("Coming Soon....")
 
+st.subheader("upcoming Features 👇")
+
+st.write("Chat with pdf")
+st.write("Chat with txt")
+st.write("Chat with csv")
+st.write("Chat with Youtube Video")
+st.write("Chat with Url")
+
+st.write("Summerize Paragraph")
+st.write("Summerize Conversation")
+st.write("Summerize Website")
+st.write("Summerize Youtube Video")
+
+st.write("\n \n Weekly updates . so stay tuned")
