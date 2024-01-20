@@ -1,7 +1,7 @@
 # All in one Text generation Project 
 
 ## Live Website Link
-[Click Here]([https://textgen.streamlit.app/](https://genai-master.streamlit.app/))
+[Click Here](https://genai-master.streamlit.app/)
 
 ## Installation
 
