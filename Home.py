@@ -10,10 +10,9 @@ tab1, tab2 , tab3 , tab4 = st.tabs(["TextGen", "Image-Gen","Chatbot","Summerizat
 with tab1:
     st.subheader("Text Generation")
     with st.expander("1) Email Generation"):
-        st.write("A) Compose Email \n")
-        st.image("images\email1.png")
-        st.write("B) Reply to Email \n")
-        st.image("images\email2.png")
+        st.write("A) Compose Email \n On basis of given input , it will generate email")
+
+        st.write("B) Reply to Email \n it will understand given email & reply it.")
 
     with st.expander("2) Post Generation"):
         st.write("A) Linkedin Posts \n B) X/Twitter Posts")
